@@ -10,4 +10,4 @@ This is a simple and easy-to-use program that allows you to send pushes with Pus
 # Support our work
 If you want to support our work, you can donate to us via PayPal:
 
-[![Support Kongzted Development](http://kongzted.net/dev/images/donate-btn.png)](http://kongzted.net/?url=donate)
+[![Support Kongzted Development](http://kongzted.net/dev/images/donate-btn.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JHJAGLF3SXC8W)
