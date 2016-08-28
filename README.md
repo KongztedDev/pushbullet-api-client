@@ -3,3 +3,10 @@ This is a simple and easy-to-use program that allows you to send pushes with Pus
 
 # Wiki:
 [Pushbullet API Wiki](https://docs.pushbullet.com/)
+
+# Credits:
+[Kongzted Development](http://github.com/kongzteddev/)
+
+# Support our work
+If you want to support our work, you can donate to us via PayPal:
+![alt tag](http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png)
