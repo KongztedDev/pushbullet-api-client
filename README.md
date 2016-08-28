@@ -9,4 +9,5 @@ This is a simple and easy-to-use program that allows you to send pushes with Pus
 
 # Support our work
 If you want to support our work, you can donate to us via PayPal:
+
 ![alt tag](http://kongzted.net/dev/images/donate-btn.png)
